@@ -1,7 +1,41 @@
-# Crop Disease detection Classification
-### Dataset credits https://www.kaggle.com/datasets/arjuntejaswi/plant-village
-Crop Disease Classification Training Model. This is a one part of the entire project. The complete project is a final year project of building a plant and pest detection mobile app using machine Learning algorithms, computer vision and react native
-<br/>
-# Team mate
+# Disease Detection
+
+This project aims to detect the presence of a particular disease in a patient using machine learning algorithms. The dataset used for training and testing the models is available in the 'data' directory.
+
+## Table of Contents
+
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Dependencies
+
+- Python 3.x
+- scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+
+## Installation
+
+1. Clone the repository to your local machine using the following command:
+2. Run the ```git clone https://github.com/Raymond-ap/disease-detection.git``` 
+
+## Usage
+
+Run the 'preprocess.py' script to preprocess the dataset and split it into training and testing sets:
+```python preprocess.py``` 
+
+## Contributing
+
+Guidelines on how to contribute to your project.
+
+## License
+
+Information about your project's license, including a link to the full text of the license.
+
+## Contributor
 YOUNOUSSA ABDOURHAMAN<br/>
 https://github.com/YounoussaBen
